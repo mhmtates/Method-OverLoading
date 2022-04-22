@@ -1,0 +1,16 @@
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\bin\Debug\net5.0\Metot OverLoading.exe
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\bin\Debug\net5.0\Metot OverLoading.deps.json
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\bin\Debug\net5.0\Metot OverLoading.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\bin\Debug\net5.0\Metot OverLoading.runtimeconfig.dev.json
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\bin\Debug\net5.0\Metot OverLoading.dll
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\bin\Debug\net5.0\ref\Metot OverLoading.dll
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\bin\Debug\net5.0\Metot OverLoading.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.dll
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\ref\Metot OverLoading.dll
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Metot OverLoading\obj\Debug\net5.0\Metot OverLoading.genruntimeconfig.cache
